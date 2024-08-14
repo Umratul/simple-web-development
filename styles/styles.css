@@ -44,3 +44,21 @@ nav a{
     width: 300px;
     border-radius: 10px ;
 }
+.sale{
+    background-color: rgb(214, 214, 228);
+}
+.sale-details{
+    text-align: center;
+    margin: auto;
+    padding: auto;
+    font-size: xx-large;
+    color: brown;
+}
+/* .sale img{
+    width: fit-content;
+} */
+footer{
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+}
